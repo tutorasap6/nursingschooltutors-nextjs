@@ -1,0 +1,17 @@
+---
+title: "Humor Health Promotion/ Sensitivity to Each Patient’s Goals + Values"
+excerpt: "27 Jul, 2024"
+date: "2026-04-14"
+tags: []
+---
+
+# Humor Health Promotion/ Sensitivity to Each Patient’s Goals + Values
+
+27 Jul, 2024
+
+---
+
+**Need expert nursing help?** Our certified tutors are available 24/7.
+
+👉 [Get a Free Quote](/order)
+👉 [WhatsApp Us](https://wa.me/17654709090)
