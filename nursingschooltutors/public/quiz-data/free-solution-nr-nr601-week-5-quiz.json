@@ -1,414 +1,437 @@
 {
   "courseCode": "free-solution-nr-nr601-week-5-quiz",
   "courseName": "(Free Solution) NR NR601 WEEK 5 QUIZ",
+  "totalQuestions": 33,
+  "passingScore": 75,
   "questions": [
     {
-      "question": "Question 1 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 1,
+      "question": "A patient with (Free Solution) NR presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Administer the prescribed beta blocker",
+        "Obtain a 12-lead ECG",
+        "Document the symptoms in the chart",
+        "Assess airway patency and respiratory effort"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 2 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 2,
+      "question": "Which finding is most consistent with early (Free Solution) NR decompensation in a hospitalized patient?",
+      "options": [
+        "Improved oxygen saturation",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion",
+        "Stable blood pressure with warm skin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 3 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 3,
+      "question": "A nurse is teaching a patient about managing (Free Solution) NR. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will only use oxygen when the nurse is present",
+        "I will call the clinic if my breathing gets worse",
+        "I will skip my medication when I feel better",
+        "I will stop water intake completely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 4 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 4,
+      "question": "The best nursing diagnosis for a patient experiencing (Free Solution) NR with fluid overload is:",
+      "options": [
+        "Excess fluid volume related to impaired cardiac output",
+        "Impaired skin integrity related to immobility",
+        "Acute pain related to surgery",
+        "Risk for infection related to intravenous therapy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 5 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 5,
+      "question": "Which lab value should the nurse monitor most closely for a patient with (Free Solution) NR?",
+      "options": [
+        "Serum potassium level",
+        "Urinalysis for protein",
+        "Liver enzyme panel",
+        "Hemoglobin A1c"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 6 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 6,
+      "question": "A student prepares for the (Free Solution) NR exam. Which study strategy is most effective?",
+      "options": [
+        "Practice exam-style questions with rationales",
+        "Skip clinical reasoning activities",
+        "Memorize facts without applying concepts",
+        "Read only one chapter the night before"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 7 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 7,
+      "question": "Which medication should the nurse question for a patient with (Free Solution) NR and decreased oxygen saturation?",
+      "options": [
+        "A sedating opioid",
+        "An ophthalmic lubricant",
+        "A daily multivitamin",
+        "A topical emollient"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 8 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 8,
+      "question": "What is the most likely priority concern when a patient with (Free Solution) NR develops confusion and restlessness?",
+      "options": [
+        "Hypoxia and impaired tissue perfusion",
+        "Stable body temperature",
+        "Excessive appetite",
+        "Improved mobility"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 9 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 9,
+      "question": "A patient with (Free Solution) NR presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Obtain a 12-lead ECG",
+        "Document the symptoms in the chart",
+        "Assess airway patency and respiratory effort",
+        "Administer the prescribed beta blocker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 10 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 10,
+      "question": "Which finding is most consistent with early (Free Solution) NR decompensation in a hospitalized patient?",
+      "options": [
+        "Improved oxygen saturation",
+        "Stable blood pressure with warm skin",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 11 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 11,
+      "question": "A nurse is teaching a patient about managing (Free Solution) NR. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will skip my medication when I feel better",
+        "I will stop water intake completely",
+        "I will call the clinic if my breathing gets worse",
+        "I will only use oxygen when the nurse is present"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 12 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 12,
+      "question": "The best nursing diagnosis for a patient experiencing (Free Solution) NR with fluid overload is:",
+      "options": [
+        "Excess fluid volume related to impaired cardiac output",
+        "Acute pain related to surgery",
+        "Risk for infection related to intravenous therapy",
+        "Impaired skin integrity related to immobility"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 13 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 13,
+      "question": "Which lab value should the nurse monitor most closely for a patient with (Free Solution) NR?",
+      "options": [
+        "Serum potassium level",
+        "Liver enzyme panel",
+        "Hemoglobin A1c",
+        "Urinalysis for protein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 14 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 14,
+      "question": "A student prepares for the (Free Solution) NR exam. Which study strategy is most effective?",
+      "options": [
+        "Read only one chapter the night before",
+        "Memorize facts without applying concepts",
+        "Skip clinical reasoning activities",
+        "Practice exam-style questions with rationales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 15 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 15,
+      "question": "Which medication should the nurse question for a patient with (Free Solution) NR and decreased oxygen saturation?",
+      "options": [
+        "A sedating opioid",
+        "A topical emollient",
+        "A daily multivitamin",
+        "An ophthalmic lubricant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 16 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 16,
+      "question": "What is the most likely priority concern when a patient with (Free Solution) NR develops confusion and restlessness?",
+      "options": [
+        "Improved mobility",
+        "Excessive appetite",
+        "Hypoxia and impaired tissue perfusion",
+        "Stable body temperature"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 17 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 17,
+      "question": "A patient with (Free Solution) NR presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Assess airway patency and respiratory effort",
+        "Obtain a 12-lead ECG",
+        "Document the symptoms in the chart",
+        "Administer the prescribed beta blocker"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 18 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 18,
+      "question": "Which finding is most consistent with early (Free Solution) NR decompensation in a hospitalized patient?",
+      "options": [
+        "Improved oxygen saturation",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion",
+        "Stable blood pressure with warm skin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 19 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 19,
+      "question": "A nurse is teaching a patient about managing (Free Solution) NR. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will stop water intake completely",
+        "I will only use oxygen when the nurse is present",
+        "I will call the clinic if my breathing gets worse",
+        "I will skip my medication when I feel better"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 20 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 20,
+      "question": "The best nursing diagnosis for a patient experiencing (Free Solution) NR with fluid overload is:",
+      "options": [
+        "Risk for infection related to intravenous therapy",
+        "Acute pain related to surgery",
+        "Impaired skin integrity related to immobility",
+        "Excess fluid volume related to impaired cardiac output"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 21 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 21,
+      "question": "Which lab value should the nurse monitor most closely for a patient with (Free Solution) NR?",
+      "options": [
+        "Hemoglobin A1c",
+        "Urinalysis for protein",
+        "Liver enzyme panel",
+        "Serum potassium level"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 22 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 22,
+      "question": "A student prepares for the (Free Solution) NR exam. Which study strategy is most effective?",
+      "options": [
+        "Practice exam-style questions with rationales",
+        "Skip clinical reasoning activities",
+        "Read only one chapter the night before",
+        "Memorize facts without applying concepts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 23 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 23,
+      "question": "Which medication should the nurse question for a patient with (Free Solution) NR and decreased oxygen saturation?",
+      "options": [
+        "A daily multivitamin",
+        "A topical emollient",
+        "An ophthalmic lubricant",
+        "A sedating opioid"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 24 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 24,
+      "question": "What is the most likely priority concern when a patient with (Free Solution) NR develops confusion and restlessness?",
+      "options": [
+        "Excessive appetite",
+        "Stable body temperature",
+        "Hypoxia and impaired tissue perfusion",
+        "Improved mobility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 25 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 25,
+      "question": "A patient with (Free Solution) NR presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Document the symptoms in the chart",
+        "Obtain a 12-lead ECG",
+        "Administer the prescribed beta blocker",
+        "Assess airway patency and respiratory effort"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 26 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 26,
+      "question": "Which finding is most consistent with early (Free Solution) NR decompensation in a hospitalized patient?",
+      "options": [
+        "Improved oxygen saturation",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion",
+        "Stable blood pressure with warm skin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 27 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 27,
+      "question": "A nurse is teaching a patient about managing (Free Solution) NR. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will stop water intake completely",
+        "I will call the clinic if my breathing gets worse",
+        "I will only use oxygen when the nurse is present",
+        "I will skip my medication when I feel better"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 28 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 28,
+      "question": "The best nursing diagnosis for a patient experiencing (Free Solution) NR with fluid overload is:",
+      "options": [
+        "Risk for infection related to intravenous therapy",
+        "Acute pain related to surgery",
+        "Impaired skin integrity related to immobility",
+        "Excess fluid volume related to impaired cardiac output"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 29 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 29,
+      "question": "Which lab value should the nurse monitor most closely for a patient with (Free Solution) NR?",
+      "options": [
+        "Serum potassium level",
+        "Hemoglobin A1c",
+        "Urinalysis for protein",
+        "Liver enzyme panel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 30 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 30,
+      "question": "A student prepares for the (Free Solution) NR exam. Which study strategy is most effective?",
+      "options": [
+        "Practice exam-style questions with rationales",
+        "Memorize facts without applying concepts",
+        "Read only one chapter the night before",
+        "Skip clinical reasoning activities"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 31 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 31,
+      "question": "Which medication should the nurse question for a patient with (Free Solution) NR and decreased oxygen saturation?",
+      "options": [
+        "A sedating opioid",
+        "An ophthalmic lubricant",
+        "A topical emollient",
+        "A daily multivitamin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 32 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 32,
+      "question": "What is the most likely priority concern when a patient with (Free Solution) NR develops confusion and restlessness?",
+      "options": [
+        "Stable body temperature",
+        "Hypoxia and impaired tissue perfusion",
+        "Improved mobility",
+        "Excessive appetite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 33 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 34 about : What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 33,
+      "question": "A patient with (Free Solution) NR presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Administer the prescribed beta blocker",
+        "Assess airway patency and respiratory effort",
+        "Obtain a 12-lead ECG",
+        "Document the symptoms in the chart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "medium"
     }
   ]
 }

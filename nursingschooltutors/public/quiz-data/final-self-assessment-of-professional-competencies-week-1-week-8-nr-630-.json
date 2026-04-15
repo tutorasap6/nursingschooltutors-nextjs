@@ -1,498 +1,450 @@
 {
   "courseCode": "final-self-assessment-of-professional-competencies-week-1-week-8-nr-630-",
   "courseName": "Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630",
+  "totalQuestions": 34,
+  "passingScore": 75,
   "questions": [
     {
-      "question": "Question 1 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 1,
+      "question": "A patient with Self of Professional Competencies presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Assess airway patency and respiratory effort",
+        "Document the symptoms in the chart",
+        "Administer the prescribed beta blocker",
+        "Obtain a 12-lead ECG"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 2 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 2,
+      "question": "Which finding is most consistent with early Self of Professional Competencies decompensation in a hospitalized patient?",
+      "options": [
+        "Stable blood pressure with warm skin",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion",
+        "Improved oxygen saturation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 3 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 3,
+      "question": "A nurse is teaching a patient about managing Self of Professional Competencies. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will stop water intake completely",
+        "I will skip my medication when I feel better",
+        "I will only use oxygen when the nurse is present",
+        "I will call the clinic if my breathing gets worse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 4 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 4,
+      "question": "The best nursing diagnosis for a patient experiencing Self of Professional Competencies with fluid overload is:",
+      "options": [
+        "Risk for infection related to intravenous therapy",
+        "Acute pain related to surgery",
+        "Excess fluid volume related to impaired cardiac output",
+        "Impaired skin integrity related to immobility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 5 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 5,
+      "question": "Which lab value should the nurse monitor most closely for a patient with Self of Professional Competencies?",
+      "options": [
+        "Hemoglobin A1c",
+        "Urinalysis for protein",
+        "Serum potassium level",
+        "Liver enzyme panel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 6 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 6,
+      "question": "A student prepares for the Self of Professional Competencies exam. Which study strategy is most effective?",
+      "options": [
+        "Read only one chapter the night before",
+        "Skip clinical reasoning activities",
+        "Memorize facts without applying concepts",
+        "Practice exam-style questions with rationales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 7 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 7,
+      "question": "Which medication should the nurse question for a patient with Self of Professional Competencies and decreased oxygen saturation?",
+      "options": [
+        "A sedating opioid",
+        "A daily multivitamin",
+        "A topical emollient",
+        "An ophthalmic lubricant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 8 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 8,
+      "question": "What is the most likely priority concern when a patient with Self of Professional Competencies develops confusion and restlessness?",
+      "options": [
+        "Improved mobility",
+        "Hypoxia and impaired tissue perfusion",
+        "Stable body temperature",
+        "Excessive appetite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 9 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 9,
+      "question": "A patient with Self of Professional Competencies presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Document the symptoms in the chart",
+        "Administer the prescribed beta blocker",
+        "Assess airway patency and respiratory effort",
+        "Obtain a 12-lead ECG"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 10 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 10,
+      "question": "Which finding is most consistent with early Self of Professional Competencies decompensation in a hospitalized patient?",
+      "options": [
+        "Stable blood pressure with warm skin",
+        "Decreased pain after medication",
+        "Improved oxygen saturation",
+        "Rising respiratory rate and confusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 11 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 11,
+      "question": "A nurse is teaching a patient about managing Self of Professional Competencies. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will skip my medication when I feel better",
+        "I will stop water intake completely",
+        "I will call the clinic if my breathing gets worse",
+        "I will only use oxygen when the nurse is present"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 12 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 12,
+      "question": "The best nursing diagnosis for a patient experiencing Self of Professional Competencies with fluid overload is:",
+      "options": [
+        "Excess fluid volume related to impaired cardiac output",
+        "Impaired skin integrity related to immobility",
+        "Risk for infection related to intravenous therapy",
+        "Acute pain related to surgery"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 13 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 13,
+      "question": "Which lab value should the nurse monitor most closely for a patient with Self of Professional Competencies?",
+      "options": [
+        "Hemoglobin A1c",
+        "Serum potassium level",
+        "Liver enzyme panel",
+        "Urinalysis for protein"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 14 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 14,
+      "question": "A student prepares for the Self of Professional Competencies exam. Which study strategy is most effective?",
+      "options": [
+        "Memorize facts without applying concepts",
+        "Practice exam-style questions with rationales",
+        "Read only one chapter the night before",
+        "Skip clinical reasoning activities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 15 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 15,
+      "question": "Which medication should the nurse question for a patient with Self of Professional Competencies and decreased oxygen saturation?",
+      "options": [
+        "A topical emollient",
+        "A sedating opioid",
+        "An ophthalmic lubricant",
+        "A daily multivitamin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 16 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 16,
+      "question": "What is the most likely priority concern when a patient with Self of Professional Competencies develops confusion and restlessness?",
+      "options": [
+        "Improved mobility",
+        "Stable body temperature",
+        "Excessive appetite",
+        "Hypoxia and impaired tissue perfusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 17 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 17,
+      "question": "A patient with Self of Professional Competencies presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Administer the prescribed beta blocker",
+        "Document the symptoms in the chart",
+        "Assess airway patency and respiratory effort",
+        "Obtain a 12-lead ECG"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 18 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 18,
+      "question": "Which finding is most consistent with early Self of Professional Competencies decompensation in a hospitalized patient?",
+      "options": [
+        "Decreased pain after medication",
+        "Stable blood pressure with warm skin",
+        "Rising respiratory rate and confusion",
+        "Improved oxygen saturation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 19 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 19,
+      "question": "A nurse is teaching a patient about managing Self of Professional Competencies. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will stop water intake completely",
+        "I will call the clinic if my breathing gets worse",
+        "I will only use oxygen when the nurse is present",
+        "I will skip my medication when I feel better"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 20 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 20,
+      "question": "The best nursing diagnosis for a patient experiencing Self of Professional Competencies with fluid overload is:",
+      "options": [
+        "Acute pain related to surgery",
+        "Excess fluid volume related to impaired cardiac output",
+        "Risk for infection related to intravenous therapy",
+        "Impaired skin integrity related to immobility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 21 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 21,
+      "question": "Which lab value should the nurse monitor most closely for a patient with Self of Professional Competencies?",
+      "options": [
+        "Liver enzyme panel",
+        "Serum potassium level",
+        "Urinalysis for protein",
+        "Hemoglobin A1c"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 22 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 22,
+      "question": "A student prepares for the Self of Professional Competencies exam. Which study strategy is most effective?",
+      "options": [
+        "Memorize facts without applying concepts",
+        "Practice exam-style questions with rationales",
+        "Read only one chapter the night before",
+        "Skip clinical reasoning activities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 23 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 23,
+      "question": "Which medication should the nurse question for a patient with Self of Professional Competencies and decreased oxygen saturation?",
+      "options": [
+        "A daily multivitamin",
+        "A sedating opioid",
+        "An ophthalmic lubricant",
+        "A topical emollient"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 24 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 24,
+      "question": "What is the most likely priority concern when a patient with Self of Professional Competencies develops confusion and restlessness?",
+      "options": [
+        "Improved mobility",
+        "Hypoxia and impaired tissue perfusion",
+        "Excessive appetite",
+        "Stable body temperature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "easy"
     },
     {
-      "question": "Question 25 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 25,
+      "question": "A patient with Self of Professional Competencies presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Administer the prescribed beta blocker",
+        "Document the symptoms in the chart",
+        "Assess airway patency and respiratory effort",
+        "Obtain a 12-lead ECG"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 26 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 26,
+      "question": "Which finding is most consistent with early Self of Professional Competencies decompensation in a hospitalized patient?",
+      "options": [
+        "Stable blood pressure with warm skin",
+        "Rising respiratory rate and confusion",
+        "Decreased pain after medication",
+        "Improved oxygen saturation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 27 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 27,
+      "question": "A nurse is teaching a patient about managing Self of Professional Competencies. Which statement shows the patient understands the plan?",
+      "options": [
+        "I will skip my medication when I feel better",
+        "I will stop water intake completely",
+        "I will call the clinic if my breathing gets worse",
+        "I will only use oxygen when the nurse is present"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Appropriate self-monitoring and knowing when to seek help are key patient education outcomes.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 28 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 28,
+      "question": "The best nursing diagnosis for a patient experiencing Self of Professional Competencies with fluid overload is:",
+      "options": [
+        "Acute pain related to surgery",
+        "Excess fluid volume related to impaired cardiac output",
+        "Risk for infection related to intravenous therapy",
+        "Impaired skin integrity related to immobility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fluid overload linked to cardiac or renal compromise is best described as excess fluid volume.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 29 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 29,
+      "question": "Which lab value should the nurse monitor most closely for a patient with Self of Professional Competencies?",
+      "options": [
+        "Liver enzyme panel",
+        "Hemoglobin A1c",
+        "Urinalysis for protein",
+        "Serum potassium level"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Potassium fluctuations are especially important in patients with cardiopulmonary or renal concerns.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 30 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 30,
+      "question": "A student prepares for the Self of Professional Competencies exam. Which study strategy is most effective?",
+      "options": [
+        "Practice exam-style questions with rationales",
+        "Skip clinical reasoning activities",
+        "Memorize facts without applying concepts",
+        "Read only one chapter the night before"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active practice with rationales helps students retain concepts and improves exam performance better than passive reading.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 31 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct answer is C because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 31,
+      "question": "Which medication should the nurse question for a patient with Self of Professional Competencies and decreased oxygen saturation?",
+      "options": [
+        "An ophthalmic lubricant",
+        "A daily multivitamin",
+        "A sedating opioid",
+        "A topical emollient"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sedating opioids can worsen respiratory depression and should be questioned when oxygenation is unstable.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 32 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 32,
+      "question": "What is the most likely priority concern when a patient with Self of Professional Competencies develops confusion and restlessness?",
+      "options": [
+        "Improved mobility",
+        "Hypoxia and impaired tissue perfusion",
+        "Stable body temperature",
+        "Excessive appetite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Altered mental status in an acute care patient is often an early sign of hypoxia or inadequate perfusion.",
+      "difficulty": "hard"
     },
     {
-      "question": "Question 33 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 33,
+      "question": "A patient with Self of Professional Competencies presents with sudden shortness of breath, tachycardia, and anxiety. What is the nurse's highest priority action?",
+      "options": [
+        "Document the symptoms in the chart",
+        "Assess airway patency and respiratory effort",
+        "Administer the prescribed beta blocker",
+        "Obtain a 12-lead ECG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Airway and breathing are the highest priorities in an acute respiratory emergency before medication or diagnostic tests.",
+      "difficulty": "medium"
     },
     {
-      "question": "Question 34 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 35 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 36 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 37 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 38 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 39 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "A",
-      "explanation": "The correct answer is A because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 40 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "B",
-      "explanation": "The correct answer is B because... (detailed explanation)",
-      "difficulty": "Medium"
-    },
-    {
-      "question": "Question 41 about Final Self-Assessment of Professional Competencies Week 1 Week 8 NR 630: What is the correct answer?",
-      "options": {
-        "A": "Option A",
-        "B": "Option B",
-        "C": "Option C",
-        "D": "Option D"
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct answer is D because... (detailed explanation)",
-      "difficulty": "Medium"
+      "id": 34,
+      "question": "Which finding is most consistent with early Self of Professional Competencies decompensation in a hospitalized patient?",
+      "options": [
+        "Improved oxygen saturation",
+        "Stable blood pressure with warm skin",
+        "Decreased pain after medication",
+        "Rising respiratory rate and confusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In early decompensation, respiratory distress and mental status changes appear before stable vital signs improve.",
+      "difficulty": "medium"
     }
   ]
 }

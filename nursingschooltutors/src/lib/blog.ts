@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { remark } from 'remark'
+import remarkHtml from 'remark-html'
 
 const POSTS_DIR = path.join(process.cwd(), 'content/blog')
 const POSTS_PER_PAGE = 6
@@ -48,6 +50,10 @@ export function getPost(slug: string): Post | null {
   if (!fs.existsSync(file)) return null
   const raw = fs.readFileSync(file, 'utf-8')
   const { data, content } = matter(raw)
+  const processedContent = remark()
+    .use(remarkHtml)
+    .processSync(content)
+    .toString()
   return {
     slug,
     title: data.title || 'Untitled',
@@ -55,7 +61,7 @@ export function getPost(slug: string): Post | null {
     excerpt: data.excerpt || '',
     date: data.date ? new Date(data.date).toISOString() : '',
     tags: data.tags || [],
-    content,
+    content: processedContent,
     schema: data.schema || { type: 'MedicalWebPage', rating: 4.9, ratingCount: 58247 },
   }
 }
