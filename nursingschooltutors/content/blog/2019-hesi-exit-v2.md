@@ -1,5 +1,5 @@
 ---
-title: "2019 HESI EXIT V2"
+title: "2026-27 HESI EXIT V2 - Practice Exam & Detailed Solutions"
 description: "16 Jul, 2024"
 excerpt: "16 Jul, 2024"
 date: "2026-04-14"
@@ -9,7 +9,7 @@ hasQuiz: true
 quizCode: "2019-hesi-exit-v2"
 ---
 
-# **2019 HESI EXIT V2**
+# **2026
 
 This interactive 2019 HESI EXIT V2 package is built for students who want practice with realistic exam questions, clear rationales, and a study plan that mirrors a clinical reasoning exam environment.
 

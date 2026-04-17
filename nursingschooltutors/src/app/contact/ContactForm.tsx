@@ -3,7 +3,7 @@ import { useState, useRef } from 'react'
 
 const SERVICES = [
   { value: 'Online Proctored Exam Help', budgetHint: 'Exam prep, coaching & guided support:', chips: ['$30–$80', '$80–$200', '$200–$400', '$400+'] },
-  { value: 'Pay Someone to Do My Online Class', budgetHint: 'Full online class assignment management:', chips: ['$50–$100', '$100–$250', '$250–$500', '$500–$1,000+'] },
+
   { value: 'Take My Class For Me (Full Course)', budgetHint: 'Full course takeover — start to finish:', chips: ['$200–$400', '$400–$700', '$700–$1,200', '$1,200+'] },
   { value: 'AI-Free Writing Assignment Help', budgetHint: 'AI-free, zero-plagiarism writing:', chips: ['$20–$60', '$60–$150', '$150–$350', '$350+'] },
   { value: 'PICOT / DNP Capstone Help', budgetHint: 'Advanced nursing project writing:', chips: ['$100–$250', '$250–$500', '$500–$900', '$900+'] },
